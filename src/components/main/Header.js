@@ -12,9 +12,9 @@ const Header = (props) => {
       <ButtonGoto>GO TO</ButtonGoto>
       <Blank />
       <DropBox name="filter" id="filter">
-        <option value="volvo">All</option>
-        <option value="saab">Time</option>
-        <option value="mercedes">Point</option>
+        <option value="all">All</option>
+        <option value="time">Time</option>
+        <option value="point">Point</option>
       </DropBox>
     </Wrapper>
   )

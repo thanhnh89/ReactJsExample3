@@ -1,5 +1,5 @@
 import React from 'react'
-import Pagination from '@material-ui/lab/Pagination'
+import Pagination from '@mui/material/Pagination';
 import { Wrapper, WrapperTests } from './mainContentStyle'
 import Header from './Header'
 import TestItem from './TestItem'
